@@ -1,0 +1,25 @@
+package br.com.zup;
+
+public class Pessoa {
+
+	private String olhos;
+	private int idade;
+	private double tamanho;
+	private double peso;
+
+
+
+	public String getOlhos() {
+		return this.olhos;
+
+	}
+	public String setOlhos(String CorDosOlhos) {
+		this.olhos =	CorDosOlhos;
+
+
+	}
+
+
+
+
+}

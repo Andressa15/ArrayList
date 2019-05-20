@@ -1,0 +1,20 @@
+//package br.com.zup;
+//
+//public class PessoaTeste {
+//	public static void main(String[] args) {
+//
+
+
+//
+////		Pessoa bronks = new Pessoa("Castanho", 18, "bronks");	
+////        
+////		bronks.setOlhos("Castanho");
+////		bronks.
+//		
+//		System.out.println(bronks.getOlhos());
+//		System.out.println(bronks.);
+//		
+//		Pessoa pessoa = new Pessoa ("Pedinho",tamanho);
+//		System.out.println();
+//		
+//		List<Pessoa>arrayList

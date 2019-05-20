@@ -1,0 +1,24 @@
+package br.com.zup;
+
+public class PessoaTeste {
+	public static void main(String[] args) {
+
+	Pessoa bronks = new Pessoa();	
+		
+		bronks.setOlhos("Castanho");
+		System.out.println(bronks.getOlhos());
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
